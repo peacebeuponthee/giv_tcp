@@ -44,7 +44,7 @@
     "Log_Level": "Info",
     "Print_Raw_Registers": true,
     "self_run": true,
-    "self_run_timer": 30,
+    "self_run_timer": 10,
     "self_run_timer_full": 120,
     "queue_retries": 2,
     "data_smoother": "none",
