@@ -41,7 +41,7 @@
     "TZ": "Europe/London",
     "MQTT_Topic": "",
     "MQTT_Port": 1883,
-    "Log_Level": "debug",
+    "Log_Level": "Info",
     "Print_Raw_Registers": true,
     "self_run": true,
     "self_run_timer": 30,
