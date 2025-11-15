@@ -406,7 +406,7 @@ else:
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         s.settimeout(0)
         # doesn't even have to be reachable
-        s.connect(('10.254.254.254', 1))
+        s.connect(('192.168.1.254', 1))
         IP = s.getsockname()[0]
         s.close()
         networks[0]=IP+"/24"
