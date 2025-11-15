@@ -33,7 +33,7 @@
     "inverterName_5":"GivTCP5",
     "Host_IP": "",
     "MQTT_Output": true,
-    "MQTT_Address": 192.168.1.201",
+    "MQTT_Address": "192.168.1.201",
     "MQTT_Username": "",
     "MQTT_Password": "",
     "MQTT_Retain": false,
