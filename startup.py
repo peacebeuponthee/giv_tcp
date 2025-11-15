@@ -426,7 +426,7 @@ with open('/app/ingress/hostip.json', 'w') as f:
 with open('/app/ingress/ingressurl.json', 'w') as f:
     f.write(json.dumps(baseurl,indent=4))
 
-#networks[0]="192.168.1.1/24"   # Temporary static for testing
+networks[0]="192.168.1.1/24"   # Temporary static for testing
 
 if setts["auto_scan"]==True:
     finv={}

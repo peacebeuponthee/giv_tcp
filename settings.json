@@ -1,8 +1,8 @@
 {
     "v3upgrade": true,
     "auto_scan":true,
-    "invertorIP_1": "",
-    "inverter_enable_1": false,
+    "invertorIP_1": "192.168.1.164",
+    "inverter_enable_1": true,
     "Model_1": "",
     "inverter_battery_only_1": false,
     "serial_number_1": "",
