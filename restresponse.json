@@ -1,0 +1,1 @@
+[{"id": "switchRate", "result": "{}"}, {"id": "enableChargeSchedule", "result": "{\"result\": \"Setting Charge Schedule to disable was a success\"}"}, {"id": "setBatteryPauseMode", "result": "{\"result\": \"Setting Battery Pause Mode to Disabled was a success\"}"}]
